@@ -1,0 +1,31 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+p {
+  background-color: #82ceae;
+  margin: 20px;
+  padding: 20px;
+  color: #FFFFFF;
+  width: 50%;
+  margin: auto;
+  margin-top: 10PX;
+  border-radius: 20PX;
+  
+}
+
+button {
+  padding: 10px;
+  background-color: #11976b;
+  color: #FFFFFF;
+  border: 0px;
+  cursor: pointer;
+  border-radius: 50px;
+  margin: 10px;
+  width: 20%;
+  font-size: 18px;
+  height: 60PX;
+  font-family: Helvetica, sans-serif;
+}
+
